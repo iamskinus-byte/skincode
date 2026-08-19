@@ -1,0 +1,40 @@
+{
+  "name": "kira-finance-command",
+  "version": "1.0.0",
+  "description": "An AI-powered business and personal finance command center.",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamskinus-byte/skincode.git"
+  },
+  "keywords": [
+    "finance",
+    "ai",
+    "nextjs",
+    "cashflow",
+    "dashboard"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamskinus-byte/skincode/issues"
+  },
+  "homepage": "https://github.com/iamskinus-byte/skincode#readme",
+  "dependencies": {
+    "next": "^16.3.1",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  },
+  "devDependencies": {
+    "@types/node": "^26.2.0",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.4",
+    "typescript": "^7.0.2"
+  }
+}
